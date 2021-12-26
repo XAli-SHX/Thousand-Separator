@@ -27,3 +27,5 @@ second - with Algorithm
 NumberSeparatorHelper
     .thousandSeparate("123000000.123"); // => 123,000,000.123
 ```
+
+## License
