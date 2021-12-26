@@ -8,6 +8,8 @@ Feel free to modify these classes and methods to your own needs
 
 check examples in "Quick Start" part
 
+you can use these classes in java and Android
+
 ## Quick Start
 
 you can use these helper classes to format numbers, like examples bellow
